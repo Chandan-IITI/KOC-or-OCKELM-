@@ -1,6 +1,7 @@
 
 # Author: Chandan Gautam
-# Institute: IIT Indore
+# Institute: IIT Indore, India
+# Email: chandangautam31@gmail.com , phd1501101001@iiti.ac.in
 
 
 import numpy as np
