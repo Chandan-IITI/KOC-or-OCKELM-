@@ -5,9 +5,17 @@ If you are using this code then kindly cite the folowing paper:
 
 # Paper is under review in 'Information Sciences', Elsevier
 
-OCKELM+: Kernel Extreme Learning Machine based One-class Classification using Privileged Information (or KOC+: Kernel Ridge Regression or  Least Square SVM with zero bias based One-class Classification using Privileged Information)
+KOC+: Kernel Ridge Regression-based One-class Classification using Privileged Information
 
 Author: C. Gautam, A. Tiwari, M. Tanveer
+
+**KOC+ can also be treated as variant of Kernel Extreme learning Machine or Least Square SVM with zero bias. therefore paper can be named as follows:
+
+OCKELM+: Kernel Extreme Learning Machine based One-class Classification using Privileged Information 
+
+or 
+
+LSSVM+: Least Square SVM with zero bias based One-class Classification using Privileged Information
 
 
 # For reproducing the results of Heart datasets:
