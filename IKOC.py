@@ -1,3 +1,8 @@
+
+# Author: Chandan Gautam
+# Institute: IIT Indore
+
+
 import numpy as np
 from cvxopt import matrix
 from cvxopt import sparse
