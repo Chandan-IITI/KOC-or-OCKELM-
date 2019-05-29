@@ -3,8 +3,8 @@ One-class KRR or One-class KELM with Privileged Information
 
 If you are using this code then kindly cite the folowing paper:
 
-# OCKELM+: Kernel Extreme Learning Machine based One-class Classification using Privileged Information (or KOC+: Kernel Ridge Regression or Least Square SVM with zero bias based One-class Classification using Privileged Information)
-# Author: C. Gautam, A. Tiwari, M. Tanveer
+OCKELM+: Kernel Extreme Learning Machine based One-class Classification using Privileged Information (or KOC+: Kernel Ridge Regression or  Least Square SVM with zero bias based One-class Classification using Privileged Information)
+Author: C. Gautam, A. Tiwari, M. Tanveer
 
 # For reproducing the results of Heart datasets:
 
