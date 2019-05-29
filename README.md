@@ -22,7 +22,7 @@ LSSVM+: Least Square SVM with zero bias based One-class Classification using Pri
 
 --  Be dfault these codes produce results for group attribute 'Age'. For other two group attributes (Sex and Electrocardiographic): change the value in cell number 3 and 4 as follows:
 
-For group attribute = Sex:
+**For group attribute = Sex:**
 
 Uncomment this line in cell 3:  
  privileged_space = privileged_space_tot.ix[:]['p1']
@@ -31,7 +31,7 @@ Uncomment this line in cell 4:
  feature_space = feature_space.drop('a2', axis=1)
  privfeat = 'Sex'
 
-For group attribute = Electrocardiographic:
+**For group attribute = Electrocardiographic:**
 
 Uncomment this line in cell 3:  
  privileged_space = privileged_space_tot.ix[:]['p3']
