@@ -39,3 +39,6 @@ Uncomment this line in cell 3:
 Uncomment this line in cell 4:
  feature_space = feature_space.drop('a7', axis=1)
  privfeat = 'Elect'
+
+
+# For any query, you can reach me at chandangautam31@gmail.com , phd1501101001@iiti.ac.in
