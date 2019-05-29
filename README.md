@@ -9,7 +9,7 @@ KOC+: Kernel Ridge Regression-based One-class Classification using Privileged In
 
 Author: C. Gautam, A. Tiwari, M. Tanveer
 
-**KOC+ can also be treated as variant of Kernel Extreme learning Machine or Least Square SVM with zero bias. therefore paper can be named as follows:
+**KOC+ can also be treated as variant of Kernel Extreme learning Machine or Least Square SVM with zero bias. therefore paper can be named as follows:**
 
 OCKELM+: Kernel Extreme Learning Machine based One-class Classification using Privileged Information 
 
