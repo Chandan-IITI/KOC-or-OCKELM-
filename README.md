@@ -1,9 +1,7 @@
 # KOC+ or OCKELM+ or LSSVM+
 One-class KRR or One-class KELM with Privileged Information
 
-If you are using this code then kindly cite the folowing paper:
-
-__ Paper is under review in 'Information Sciences', Elsevier __ 
+If you are using this code then kindly cite the folowing paper ** Paper is under review in 'Information Sciences', Elsevier **:
 
 KOC+: Kernel Ridge Regression-based One-class Classification using Privileged Information
 
