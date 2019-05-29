@@ -41,4 +41,4 @@ Uncomment this line in cell 4:
  privfeat = 'Elect'
 
 
-**For any query, you can reach me at chandangautam31@gmail.com , phd1501101001@iiti.ac.in
+**For any query, you can reach me at chandangautam31@gmail.com , phd1501101001@iiti.ac.in**
