@@ -1,4 +1,4 @@
-# KOC+ or OCKELM+ or LSSVM+
+# KOC+ or OCKELM+ or LSSVM+(b=0)
 One-class KRR or One-class KELM with Privileged Information
 
 If you are using this code then kindly cite the folowing **paper**: 
