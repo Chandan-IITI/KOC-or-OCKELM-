@@ -1,11 +1,12 @@
 # KOC+ or OCKELM+ or LSSVM+
 One-class KRR or One-class KELM with Privileged Information
 
-If you are using this code then kindly cite the folowing paper (**Paper is under review in 'Information Sciences', Elsevier**): 
+If you are using this code then kindly cite the folowing **paper**: 
 
-[KOC+: Kernel Ridge Regression-based One-class Classification using Privileged Information](https://arxiv.org/abs/1904.08338)
+### C. Gautam, A. Tiwari, and M. Tanveer, KOC+: Kernel ridge regression based one-class classification using privileged information, Information Sciences, vol. 504, pp. 324-333, 2019 (ELSEVIER).
 
-Author: C. Gautam, A. Tiwari, M. Tanveer
+                  https://www.sciencedirect.com/science/article/pii/S0950705118305823
+
 
 **KOC+ can also be treated as the variant of Kernel Extreme learning Machine or Least Squares SVM with zero bias, therefore, paper and method can also be named as follows:**
 
