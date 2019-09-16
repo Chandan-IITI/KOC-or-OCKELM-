@@ -3,6 +3,13 @@
 # Institute: IIT Indore, India
 # Email: chandangautam31@gmail.com , phd1501101001@iiti.ac.in
 
+# Following papers are implemented in the following codes:
+    
+# Paper1 (KOC+): Gautam, Chandan, Aruna Tiwari, and M. Tanveer. "KOC+: Kernel ridge regression based one-class classification using privileged information."
+#  Information Sciences 504 (2019): 324-333.  
+
+# Paper2 (OCKELM/KOC): Leng, Qian, et al. "One-class classification with extreme learning machine."
+#    Mathematical problems in engineering 2015 (2015).
 
 import numpy as np
 from cvxopt import matrix
@@ -18,6 +25,9 @@ def linear_kernel(X, Y=None):
 class IKOC(object):
     '''
     This class implements KOC+ algorithm,
+    
+    Paper: Gautam, Chandan, Aruna Tiwari, and M. Tanveer. "KOC+: Kernel ridge regression based one-class classification using privileged information."
+    Information Sciences 504 (2019): 324-333.
     '''
     def __init__(self, nu, features_kernel=linear_kernel,
                  privileged_kernel=linear_kernel,
@@ -72,7 +82,9 @@ class IKOC(object):
     
 class KOC(object):
     '''
-    This class implements KOC+ algorithm,
+    This class implements KOC algorithm,
+    Paper: Leng, Qian, et al. "One-class classification with extreme learning machine."
+    Mathematical problems in engineering 2015 (2015).
     '''
     def __init__(self, nu, features_kernel=linear_kernel,
                  regularization=0, tol=0.001):
